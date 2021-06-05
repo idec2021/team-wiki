@@ -1,6 +1,6 @@
 # iDEC HQ Team Wiki Example
 
-This is an example iDEC Team Wiki repository. It is similar but not identical to the default wiki template provided to iDEC Teams. The wiki created from this repository is hosted at [2021.idec.io/team-wiki](https://2021.idec.io/team-wiki).
+This is an example iDEC Team Wiki repository. It is similar but not identical to the default wiki template provided to iDEC Teams. The wiki created from this repository is hosted at [idec2021.github.io/team-wiki](https://idec2021.github.io/team-wiki).
 
 This wiki is powered by [MkDocs](http://mkdocs.org) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
